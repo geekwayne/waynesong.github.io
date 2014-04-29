@@ -1,16 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Coding, Sharing, and Smiling.]]></title>
   <link href="http://waynesong.github.io/atom.xml" rel="self"/>
   <link href="http://waynesong.github.io/"/>
-  <updated>2014-04-29T13:13:19+08:00</updated>
+  <updated>2014-04-29T13:53:35+08:00</updated>
   <id>http://waynesong.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Wayne Song]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[This Is Just an Example]]></title>
+    <link href="http://waynesong.github.io/blog/2014/04/29/this-is-just-an-example/"/>
+    <updated>2014-04-29T13:26:36+08:00</updated>
+    <id>http://waynesong.github.io/blog/2014/04/29/this-is-just-an-example</id>
+    <content type="html"><![CDATA[<p>This is a new post for testing purpose.This is a new post for testing purpose.This is a new post for testing purpose.
+This is a new post for testing purpose.
+This is a new post for testing purpose.
+This is a new post for testing purpose.
+This is a new post for testing purpose.
+This is a new post for testing purpose.
+This is a new post for testing purpose.
+This is a new post for testing purpose.
+This is a new post for testing purpose.
+This is a new post for testing purpose.
+This is a new post for testing purpose.
+This is a new post for testing purpose.
+This is a new post for testing purpose.
+This is a new post for testing purpose.
+This is a new post for testing purpose.
+This is a new post for testing purpose.
+This is a new post for testing purpose.
+This is a new post for testing purpose.
+This is a new post for testing purpose.
+This is a new post for testing purpose.
+This is a new post for testing purpose.</p>
+]]></content>
+  </entry>
   
 </feed>
